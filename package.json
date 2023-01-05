@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/EmmanuelSage/webpack-setup#readme",
   "devDependencies": {
-    "@babel/core": "7.1.2",
+    "@babel/core": "7.20.12",
     "@babel/node": "7.0.0",
     "@babel/plugin-proposal-class-properties": "7.0.0",
     "@babel/preset-env": "7.1.0",
@@ -35,7 +35,7 @@
     "eslint-plugin-react": "^7.14.2",
     "eslint-plugin-standard": "^4.0.0",
     "file-loader": "2.0.0",
-    "html-webpack-plugin": "3.2.0",
+    "html-webpack-plugin": "5.5.0",
     "path": "0.12.7",
     "style-loader": "0.23.0",
     "webpack": "^4.43.0",
